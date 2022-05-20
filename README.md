@@ -59,13 +59,10 @@
 </p>
 <br>
 <br>
-<br>
-<br>
     
     Me gusta creer que: 
     
     "Un experto en cualquier cosa alguna vez fue un principiante." ✨
-<br>
 <br>
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=karinaestaba&label=Profile%20views&color=0e75b6&style=flat" alt="karinaestaba" /> 
